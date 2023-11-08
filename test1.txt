@@ -20,3 +20,4 @@ I am developper 2
 9
 I am developper 2 causing a conflict
 I am developper 1 causing conflict
+i am developper 2 editing this while the current repo has a new file
